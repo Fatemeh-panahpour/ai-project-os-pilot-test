@@ -1,0 +1,14 @@
+[
+  {
+    "id": "T1",
+    "capacity": 2
+  },
+  {
+    "id": "T2",
+    "capacity": 4
+  },
+  {
+    "id": "T3",
+    "capacity": 6
+  }
+]
