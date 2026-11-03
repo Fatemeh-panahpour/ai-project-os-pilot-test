@@ -1,0 +1,13 @@
+{
+  "name": "tablenest-restaurant-reservation-fixture",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Synthetic restaurant reservation project for AI Project OS discovery testing",
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
